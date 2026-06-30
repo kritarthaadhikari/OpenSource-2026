@@ -52,7 +52,7 @@ Our goal is simple: **transform students into industry-ready problem solvers** t
 PDSC is open to all curious minds who want to build, collaborate, and lead. If you're looking to connect your academic learning to the real world — this is your place.
 
 📧 Email: [pdsc.nepal@gmail.com](mailto:pdsc.nepal@gmail.com)  
-🌐 Website: [pdscnepal.org.np(https://pdscnepal.org.np)
+🌐 Website: [pdscnepal.org.np](https://pdscnepal.org.np)
 
 ---
 
