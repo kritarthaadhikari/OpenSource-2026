@@ -23,7 +23,7 @@ export default function MainBanner() {
           <div className="main-button">
             <div className="scroll-to-section">
               <a style={{color:'white',cursor:'pointer'}} onClick={()=>scrollToSection('section2')}>Discover more</a>
-              <a style={{color:'white',cursor:'pointer'}} onClick={()=>scrollToSection('section3')}>Aplly Now</a>
+              <a style={{color:'white',cursor:'pointer'}} onClick={()=>scrollToSection('section3')}>Apply Now</a>
             </div>
           </div>
         </div>
